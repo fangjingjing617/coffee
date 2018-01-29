@@ -1,0 +1,4 @@
+def fn():
+      pass
+name = "你好，世界world"
+print(name )
